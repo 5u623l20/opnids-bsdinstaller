@@ -5,7 +5,7 @@
 product = {
 	-- no spaces here, used for disk label
 	name = "OPNids",
-	version = "18.9"
+	version = "19.3"
 }
 
 mountpoints = function(part_cap, ram_cap)
